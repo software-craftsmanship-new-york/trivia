@@ -17,5 +17,7 @@ And the minitest test using:
 
     rake minitest
 
+After running the tests, you can see the test coverage by opening /coverage/index.html
+
 Please modify any and all of these files to suit your preferences; these are
 simply meant as a starting point!
