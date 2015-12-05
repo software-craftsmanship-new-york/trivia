@@ -25,4 +25,4 @@ To view the test coverage report, run the following command:
 
 or 
 
-   coverage html
+    coverage html
