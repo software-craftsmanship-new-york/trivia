@@ -1,4 +1,5 @@
 require 'test_helper'
+require_relative '../lib/ugly_trivia/game'
 
 # Minispec!
 describe "one test" do
